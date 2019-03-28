@@ -1,19 +1,8 @@
 # React Design Editor
-- React Design Editor has started to develope direct manipulation of editable design tools like Powerpoint, We've developed it with react.js, ant.design, fabric.js
-
-- Layouts and components such as property edits, item lists, toolbars were developed as react.js and the ant.design component was primarily used.
-
-- The project is constantly being developed to support a variety of functions, and its goal is to be able to draw workflow (BPMN) in the future.
-
-# Demos
-[React Design Editor](https://salgum1114.github.io/react-design-editor/)
 
 # Dependencies
 - React.js
-- ant.design
 - fabric.js
-- mediaelement.js
-- react-ace
 - interact.js
 - anime.js
 - fontawesome5
@@ -21,26 +10,15 @@
 - babel
 
 # Getting Started
-- git clone https://github.com/salgum1114/react-design-editor.git - Clone the project
-- npm start - Run script
-- http://localhost:8080 - Host access
+- npm install
+- npm start
+- http://localhost:8080 
 
 # Image Map
-## Three layout mode
-### 1. Fixed
-![fixed](https://user-images.githubusercontent.com/19975642/47961458-b5627680-e04e-11e8-99e0-9d4276c4e9e5.PNG)
 
-### 2. Responsive
-![responsive](https://user-images.githubusercontent.com/19975642/47961459-b7c4d080-e04e-11e8-84b0-b4921270eddd.PNG)
+![fixed](./docs/images/1.png)
 
-### 3. Fullscreen
-![fullscreen](https://user-images.githubusercontent.com/19975642/47961460-b98e9400-e04e-11e8-9df3-14f12edb3a5f.PNG)
 
-### Preview mode
-![preview](https://user-images.githubusercontent.com/19975642/47961461-babfc100-e04e-11e8-8f52-b5dd88e5a5b9.PNG)
-
-# Workflow
-![workflow](https://user-images.githubusercontent.com/19975642/47961462-bbf0ee00-e04e-11e8-9185-de5759f2463a.PNG)
 
 # Features
 - [x] Add

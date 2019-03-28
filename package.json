@@ -16,6 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/javascript603/react-design.git"
   },
+  "homepage": "https://javascript603.github.io/react-design",
   "keywords": [
     "React.js",
     "fabric",
